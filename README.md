@@ -2,6 +2,8 @@
 
 This repository contains the source code, app project files, and documentation for a **Voice-Controlled Mobile Robot**. The system is built using an **ESP32**, **DC Motors**, and a custom **Android App** created with MIT App Inventor.
 
+This project was initially a high school research project but I decided to upload it to GitHub to share my code with everyone.
+
 ![Project Status](https://img.shields.io/badge/Status-Completed-success)
 ![Platform](https://img.shields.io/badge/Platform-ESP32-blue)
 ![App](https://img.shields.io/badge/App-MIT%20App%20Inventor-orange)
