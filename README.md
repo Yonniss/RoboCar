@@ -8,12 +8,16 @@ This repository contains the source code, app project files, and documentation f
 
 **QUICK ADVERTISMENT** This code and build was made with the help of a spanish website that lets you code an Arduino/ESP32 with blocks named STEAMakers blocks. Since it imports some strange libraries, you should change the code as you need to make it work in the Arduino IDE. The components used can also be variated as you will, since I used a shield that made me able to not require some L289N drivers.
 
+
+**QUICK ADVERTISMENT 2** The App was made to work only in spanish, so I would suggest you change the language of the app.
+
+
 ## 📋 Project Overview
 
 The main objective of this project is to build a robotic system capable of moving and responding to voice commands. The robot interprets verbal instructions to move, turn, or stop, and includes manual control features via a mobile interface.
 
 ### Key Features
-* **Voice Control:** Recognizes commands like "Forward", "Back", "Left", and numerical values for speed/duration.
+* **Voice Control:** Recognizes commands like "Forward", "Back", "Left", and numerical values for duration.
 * **Manual Control:** Directional arrows (D-Pad style) on the app for direct maneuvering.
 * **OLED Messaging:** Displays text sent from the smartphone on the robot's screen.
 * **Horn/Buzzer:** Remote activation of a buzzer.
@@ -29,7 +33,7 @@ The robot is built using a modular approach, avoiding complex soldering by using
 | **Microcontroller** | ESP32 Plus STEAMakers (or standard ESP32)|
 | **Expansion Board** | Shield IMAGINA 3DBot (Controls motors without external drivers)|
 | **Actuators** | 2x DC Motors (3V-12V) connected to rear wheels |
-| **Chassis** | Basic chassis with 1 caster wheel for stability |
+| **Chassis** | Basic chassis with 1 caster wheel for stability made in fusion and then printed in 3d|
 | **Display** | OLED Screen (I2C) |
 | **Power** | Battery pack / Power Bank via USB |
 
