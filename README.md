@@ -111,7 +111,6 @@ The app uses a dictionary algorithm to convert spoken number words (e.g., "one h
 ## 📄 Credits
 
 **Author:** Yannis Florin Ionica
-**Institution:** Institut de Camarles
 **Course:** 2025/2026
 
 ---
