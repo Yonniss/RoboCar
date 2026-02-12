@@ -114,4 +114,9 @@ The app uses a dictionary algorithm to convert spoken number words (e.g., "one h
 **Course:** 2025/2026
 
 ---
+
+<h2>License</h2>
+    <p>MIT License - feel free to use and modify as you wish.</p>
+
+---
 *Created for the High School Research Project (Treball de Recerca).*
